@@ -15,7 +15,7 @@ unsigned int puissance_lineaire(unsigned int x, unsigned int n){
     }
  }
 int main (){
-    unsigned int x,n;
+    unsigned x,n;
     printf("Entrer x : ");
 
     scanf("%u", &x);
